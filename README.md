@@ -1,1 +1,4 @@
 # edgars.ziedins
+
+1. Labdien! Mani sauc #### Edgars Ziediņš. Šobrīd dzīvoju Rīgā. Strādāju par manuālo testētāju. Darbs saistīts ar dažadu aplikāciju testēšanu, kļudu meklēšanu un to piefiksēšanu. Par manuālo testētāju strādāju salīdzinoši neilgi. Lai labāk apgūtu šo profesiju un tālāk savu nākotni saistītu ar teatu automatizāciju, esmu pieteicies šiem VUMC kursiem. Pagaidām esmu ļoti apmierināts ar savu izvēli. Vēlos arī nedaudz pastāstīt par saviem hobijiem: Tie ir ## basketbols un ## hard enduro.  [Mana basketbola statistika](https://www.olybetliga.com/personas/edgars-ziedins/1886/2799). 
+Hard enduro motocikls [Husqvarna](img/moto.jpeg).
