@@ -72,7 +72,7 @@ System.out.println(7 + 7); // 14
         System.out.println("7" + "7"); // 77
 
         boolean isAGreaterThanB = a > b; // 10 > 20
-        boolean isAGreaterThanB = a < b; // 10 > 20
+     //   boolean isAGreaterThanB = a < b; // 10 > 20
 
         boolean isTrue = a != b;
         System.out.println(isTrue);
